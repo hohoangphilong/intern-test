@@ -1,0 +1,1384 @@
+/*    Device = Laptops, Desktops
+---------------------------------------------------------------- */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+	.navbar-brand {
+		position: absolute;
+		top: 10px;
+		left: 15px;
+	}
+	.header .navbar .language {
+		position: absolute;
+		right: 15px;
+		top: 10px;
+	}
+	.header .navbar .language .dropdown-menu {
+		top: 100%;
+		right: 0;
+		margin-left: -80px;
+	}
+	.navbar-nav {
+		width: 100%;
+		justify-content: center;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link {
+		padding: 0px 0px;
+	}
+	.header .navbar .navbar-nav .nav-item {
+		padding: 40px 0px 0;
+	}
+	#header .img-wrapper .intro-img .bounce_wrapper img {
+		width: 100%;
+	}
+	#about_mybluecoin .about-img {
+		margin-top: 0;
+		margin-right: -42px;
+		margin-left: 0;
+	}
+	#about_mybluecoin .about-img img {
+		width: 100%;
+	}
+	.stanup {
+		top: 30px;
+	}
+	#best_feature .feature_items .single-wrapper .single-items {
+		margin-bottom: 30px;
+	}
+	#token_sale .pricing_items .single-wrapper .pricing_single {
+		margin-bottom: 30px;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper {
+		padding: 15px;
+		margin: 0;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper ul {
+		margin-right: 15px;
+	}
+	#token_distribution .distribution_single_items {
+		display: inline;
+	}
+	#token_distribution .distribution_single_item {
+		margin: 0px auto;
+		margin-bottom: 250px;
+	}
+	#token_distribution .distribution_single_item:last-child {
+		margin-bottom: 00px;
+	}
+	#header .img-wrapper .intro-img .bounce_wrapper img {
+		margin-left: 0;
+	}
+	#roadmap .location_04 {
+		width: 100%;
+	}
+	#roadmap .location_04 .location_wrapper .roadmap_position {
+		height: auto;
+		width: 100%;
+	}
+	#roadmap .location_04 .location_wrapper .location {
+		position: static;
+		flex-wrap: wrap;
+		flex: wrap;
+		float: left;
+	}
+	.header .img-wrapper .intro-img img {
+		width: 100% !important;
+		margin-left: 0 !important;
+	}
+	#header-06 .countdown_time {
+		margin: 50px auto 0;
+	}
+	#token_distribution .token_distribution_wrapper img {
+		width: 100%;
+	}
+	.header .is-sticky .cripto_nav {
+		padding: 25px !important;
+	}
+
+}
+/*		Tablet Layout: 768px.
+---------------------------------------------------------------- */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.header {
+		height: 100%;
+	}
+	.shape1 img, .shape2 img, .shape3 img, .shape4 img, .shape5 img{
+		width: 100%
+	}
+	.navbar-brand {
+		position: absolute;
+		top: 10px;
+		left: 15px;
+	}
+	.header .navbar .language {
+		position: absolute;
+		right: 15px;
+		top: 10px;
+	}
+	.header .navbar .language .dropdown-menu {
+		top: 100%;
+		right: 0;
+		margin-left: -80px;
+	}
+	.navbar-nav {
+		width: 100%;
+		justify-content: center;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link {
+		padding: 0px 0px;
+	}
+	.header .navbar .navbar-nav .nav-item {
+		padding: 40px 0px 0;
+	}
+	#header .intro-text {
+		text-align: center;
+		margin: 120px 0 0px;
+	}
+	#header .intro-text h1 {
+		padding: 0 50px;
+	}
+	#header .intro-text p {
+		padding: 0 50px;
+	}
+	#header .intro-text .btn_video_wrapper {
+		justify-content: center;
+	}
+	#header .img-wrapper .intro-img {
+		margin-left: 0%;
+		text-align: center;
+	}
+	#header .img-wrapper .intro-img .bounce_wrapper img {
+		margin-left: 0;
+	}
+	#header .img-wrapper .intro-img .bounce_wrapper .shape-1 {
+		right: 29%;
+	}
+	#header .shape4 img {
+		top: 0;
+		right: 0;
+		z-index: -2;
+		transform: translate(50px, 90%);
+	}
+	#header .shape6 {
+		bottom: 0%;
+	}
+	#welcome_mybluecoin {
+		padding: 100px 0 150px;
+	}
+	#about_mybluecoin .about-img {
+		margin-top: 0;
+		margin-right: -42px;
+		margin-left: 0;
+	}
+	#about_mybluecoin .about-img img {
+		width: 117%;
+	}
+	#best_feature .feature_items .single-wrapper .single-items {
+		margin-bottom: 30px;
+	}
+	#token_sale .pricing_items .single-wrapper .pricing_single {
+		margin-bottom: 30px;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper {
+		padding: 15px;
+		margin: 0;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper ul {
+		margin-right: 15px;
+	}
+	#token_distribution .distribution_single_items {
+		display: inline;
+	}
+	#token_distribution .distribution_single_item {
+		margin: 0px auto;
+		margin-bottom: 250px;
+	}
+	#token_distribution .distribution_single_item:last-child {
+		margin-bottom: 00px;
+	}
+	#whitepaper .companis_supported_logos ul {
+		padding: 0 15px 30px;
+	}
+	#whitepaper .companis_supported_logos ul li img {
+		width: 120px;
+	}
+	#team_member .owl-item.active {
+		margin-top: 0;
+	}
+	.faq-img {
+		text-align: center;
+		margin-bottom: 50px;
+	}
+	.subscribe-wrapper #subscribe .subscribe-form form {
+		width: 650px;
+	}
+	#header .is-sticky .cripto_nav {
+		padding: 25px !important;
+		transition: all 0.3s ease-in-out;
+	}
+	.header .img-wrapper .intro-img {
+		margin-top: 0;
+		margin-left: 0;
+		margin-bottom: 100px;
+	}
+	.header .img-wrapper .intro-img img {
+		width: 100% !important;
+		margin-left: 25px !important;
+	}
+	.header .intro-text {
+		margin-top: 120px;
+		padding-right: 0px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-left .doc-wraper::before {
+		left: 0px;
+		top: 0px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-right .doc-wraper::before {
+		left: 0px;
+		top: 0px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-desc .doc-wraper {
+		padding: 15px;
+		margin: 15px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-right .doc-wraper {
+		padding: 15px;
+	}
+	.roadmap .roadmap-area::before {
+		background: transparent;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-status {
+		padding: 30px 0 50px;
+		text-align: center;
+		min-height: auto;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-marker {
+		display: none;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-left {
+		padding: 0;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-right {
+		padding: 0;
+	}
+	#team_membar .single-row .team-single-item {
+		margin-bottom: 30px;
+	}
+	#team_membar .single-row {
+		margin-bottom: 0;
+	}
+	.logos .companis-logo-wapper .companis-logos {
+		margin-bottom: 50px;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.logos .companis-logo-wapper .companis-logos li {
+		margin: 15px;
+	}
+	.logos .companis-logo-wapper .companis-logos li img {
+		height: 20px;
+		width: auto;
+	}
+	.footer .footer-single-col {
+		margin-bottom: 50px;
+	}
+	.footer .footer-btm-wrapper .footer-single-col .subtitle_1 {
+		margin-bottom: 25px;
+	}
+	#token_distribution .token_distribution_wrapper img {
+		width: 100%;
+	}
+		.s-ecosystem {
+		margin-top: 60px;
+	}
+	.eco-img {
+		width: 100%;
+		height: auto;
+	}
+	#roadmap .location_04 .location_wrapper .roadmap_position {
+		width: 100%;
+	}
+	#roadmap .location_04 .location_wrapper .location {
+		position: static;
+		width: 95%;
+		margin: 0;
+		margin-bottom: 30px;
+	}
+}
+/*		Mobile Layout: 320px.
+---------------------------------------------------------------- */
+
+@media only screen and (max-width: 767px) {
+	.navbar-light .navbar-brand img {
+		visibility: hidden;	
+	}
+	.navbar-light .navbar-brand::before {
+		background: url(../images/logos/logo2.svg);
+		position: absolute;
+		top: 21px;
+		left: 70px;
+		content: "";
+		height: 23px;
+		width: 105px;
+		background-size: cover;
+	}
+	#header-06 .intro-text {
+		margin: 45px 0 0px;
+	}
+	#header-06 .intro-text h1 {
+		font-size: 30px;
+		padding: 0;
+	}
+	#header-06 .intro-text p {
+		padding: 0;
+	}
+	#header-06 .intro-text .btn_video_wrapper {
+		margin-top: 30px;
+		flex-direction: column;
+		align-items: center;
+	}
+	#header-06 .intro-text .btn_video_wrapper .btn {
+		margin-bottom: 20px	;
+		margin-right: 0;
+	}
+	#header-06 .countdown_time {
+		margin: 20px auto;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter {
+		padding: 5px 2px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter h4 {
+		width: 65px;
+		height: 65px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter h4 .count-time {
+		width: 65px;
+		height: 65px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter .normal {
+		font-size:14px;
+	}
+	.img-wrapper {
+		display: none;
+	}
+	#token_distribution_bf .sub-title {
+		margin-bottom: 0;
+	}
+	.header {
+		height: 100%;
+	}
+	.shape1 img, .shape2 img, .shape3 img, .shape4 img, .shape5 img{
+		width: 100%
+	}
+	.header .navbar {
+		padding: 60px 0 15px !important;
+		z-index: 99;
+		background: #020c59 !important;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link {
+		padding: 10px 15px !important;
+		color: #ffffff !important;
+		font-size: 15px;
+		display: inline-block;
+	}
+	.header .navbar .language {
+		margin-left: 0px;
+	}
+	.language {
+		position: absolute;
+		top: 10px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 100%;
+		justify-content: center;
+	}
+	.header .navbar .language .dropdown-menu {
+		top: 100%;
+		right: 0;
+		margin-left: -80px;
+	}
+	.header .navbar .language .token {
+		padding: 0px 15px !important;
+		line-height: 40px !important;
+	}
+	.navbar-brand {
+		width: 78%;
+		text-align: right;
+	}
+	.navbar-light .navbar-toggler {
+		color: #fff;
+		border: none;
+		cursor: pointer;
+		margin-left: 3%;
+		outline: none;
+	}
+	.header .intro-text {
+		margin-top: 100px;
+		padding-right: 0px;
+		text-align: center;
+	}
+	.header .intro-text h1 {
+		font-size: 30px;
+		line-height: 35px;
+		text-align: center;
+	}
+	.header .intro-text p {
+		font-size: 14px;
+		padding-right: 0;
+		text-align: center;
+	}
+	.header .intro-text .intro_btn_3 {
+		margin-right: 15px;
+		padding: 0 30px;
+		height: 50px;
+		line-height: 50px;
+	}
+	.intro-text .btn-default-style {
+		margin-left: 0%;
+	}
+	.header .img-wrapper .intro-img img {
+		margin-left: 17%;
+		width: 82%;
+		display: none;
+	}
+	#countdown-area {
+		background: #0b1e68;
+		padding: 120px 0;
+		text-align: center;
+	}
+	.sub-title {
+		width: 100%;
+	}
+	.sub-title h2 {
+		font-size: 30px !important;
+		line-height: 36px !important;
+	}
+	#countdown-area .countdown-wrapper .countdownHolder .countDays::before,
+	#countdown-area .countdown-wrapper .countdownHolder .countHours::before,
+	#countdown-area .countdown-wrapper .countdownHolder .countMinutes::before,
+	#countdown-area .countdown-wrapper .countdownHolder .countSeconds::before {
+		font-size: 12px;
+	}
+	.token_distribution_wrapper > img {
+		width: 100%;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-left .doc-wraper::before {
+		left: 0px;
+		top: 0px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-right .doc-wraper::before {
+		left: 0px;
+		top: 0px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-desc .doc-wraper {
+		padding: 15px;
+		margin: 15px;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-right .doc-wraper {
+		padding: 15px;
+	}
+	.roadmap .roadmap-area::before {
+		background: transparent;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-status {
+		padding: 30px 0 50px;
+		text-align: center;
+		min-height: auto;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-marker {
+		display: none;
+	}
+	.pn_reverse {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-left {
+		padding: 0;
+	}
+	.roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-right {
+		padding: 0;
+	}
+	#progerss-wrapper .progress .heard_cap h3 {
+		margin-right: 25px;
+	}
+	#team_member {
+		padding: 100px 0 0px;
+	}
+	#team_membar .single-row .team-single-item {
+		margin-bottom: 20px;
+	}
+	#team_member .owl-item.active {
+		margin-top: 0;
+	}
+	.logos .companis-logo-wapper .companis-logos {
+		display: flex;
+		flex-wrap: wrap;
+		margin-bottom: 30px;
+	}
+	.logos .companis-logo-wapper .companis-logos li {
+		width: 50%;
+		margin-bottom: 30px;
+		vertical-align: middle;
+	}
+	.logos .companis-logo-wapper .companis-logos li img {
+		width: 120px;
+		height: auto;
+		margin: 0px auto;
+	}
+	.logos .companis-logo-wapper .companis-logos:last-child li {
+		margin: 0;
+	}
+	.logos .companis-logo-wapper .companis-logos:last-child {
+		justify-content: left;
+	}
+	#faq-area .faq-wrapper #accordion .card .card-header a {
+		font-size: 15px;
+	}
+	#faq-area .faq-wrapper a::after {
+		right: -15px;
+		top: 0;
+		font-size: 10px;
+	}
+	#faq-area .faq-wrapper {
+		padding: 40px 15px 50px;
+	}
+	#faq-area .faq-wrapper #accordion .card .card-header {
+		background: transparent;
+		border: none;
+		padding: 0 15px 0 0;
+	}
+	#subscribe-wrapper #subscribe .subscribe-form form input {
+		font-size: 14px;
+		padding: 0 109px 0 40px;
+	}
+	#subscribe-wrapper #subscribe .subscribe-form form {
+		width: 280px;
+	}
+	#subscribe-wrapper #subscribe .subscribe-form form button {
+		width: 95px;
+	}
+	#subscribe-wrapper #subscribe .subscribe-social .social-items li {
+		margin-bottom: 13px;
+		margin-right: 9px;
+	}
+	#subscribe-wrapper #subscribe .subscribe-social .social-items {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.footer .footer-btm-wrapper .footer-single-col p {
+		margin: 0;
+	}
+	.padding-none {
+		padding: 0px 20px;
+	}
+	#footer .copyright p {
+		line-height: 23px;
+	}
+	.shape2.header-shape > img {
+		display: none;
+	}
+	#header .navbar .language .token {
+		line-height: 40px !important;
+	}
+	#header .intro-text {
+		margin: 120px 0 100px;
+	}
+	#header .intro-text h1 {
+		font-size: 30px;
+		line-height: 35px;
+		padding: 0;
+	}
+	#header .intro-text p {
+		padding: 20px 0 0;
+	}
+	#header .intro-text .btn_video_wrapper {
+		display: inline-block;
+		width: 100%;
+		text-align: center;
+	}
+	#header .intro-text .btn_video_wrapper a {
+		margin: 0;
+	}
+	#header .intro-text .btn_video_wrapper .video_wrapper .video-play-btn span a {
+		margin: 0px auto;
+	}
+	#header .intro-text {
+		padding: 0px;
+		margin-top: 95px;
+	}
+	#header .img-wrapper .intro-img .bounce_wrapper img {
+		margin-left: 0;
+		margin-top: 0%;
+		width: 100%;
+	}
+	#header .img-wrapper .intro-img {
+		margin-top: 0;
+		margin-left: 0;
+	}
+	.shape-1 .bounce-1 {
+		display: none;
+	}
+	#header .video_wrapper {
+		margin: 0px;
+		margin-top: 20px;
+	}
+	#header .countdown_time {
+		margin: 90px 0 0;
+		padding: 0;
+	}
+	#header  .coundown-timer{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	#header .countdown_time .clock-countdown .single-counter {
+		padding: 15px;
+	}
+	#header .countdown_time .count-time_btn {
+		padding-bottom: 30px;
+	}
+	#header .countdown_time .count-time_btn a {
+		font-size: 14px;
+	}
+	#header .countdown_time .clock-countdown .single-counter .normal {
+		margin-left: 0px;
+	}
+	#welcome_mybluecoin {
+		padding: 100px 0 100px;
+	}
+	#welcome_mybluecoin .about_mybluecoin-content {
+		padding: 0px;
+	}
+	#about_mybluecoin {
+		padding: 40px 0 100px;
+	}
+	#about_mybluecoin .about_mybluecoin-content {
+		text-align: center;
+	}
+	#about_mybluecoin .about-img {
+		margin: 0;
+	}
+	#about_mybluecoin .about_mybluecoin-content h2 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	#about_mybluecoin .img-wrapper > img {
+		margin-top: 20%;
+		width: 100%;
+	}
+	#best_feature .feature_items .single-wrapper {
+		margin-bottom: 20px;
+		padding-right: 22px;
+	}
+	#token_sale .pricing_items .single-wrapper .pricing_single {
+		margin-left: 22px;
+		margin-bottom: 20px;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper {
+		display: inline;
+		border: medium none;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper ul {
+		width: 90%;
+		margin-left: 52px;
+		margin-bottom: 30px;
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper ul li {
+		margin-bottom: 30px;
+		min-height: 36px;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .distribution_details .token_shape .header-shape img {
+		width: 300px;
+	}
+	#footer .footer_items .footer_single_list_1 {
+		width: 100%;
+	}
+	#footer .footer_items .footer_single_list_2 {
+		width: 50%;
+	}
+	#footer .footer_items .footer_single_list_3 {
+		width: 50%;
+	}
+	#footer .footer_items .footer_single_list_4 {
+		width: 100%;
+	}
+	#footer .footer_items {
+		flex-wrap: wrap;
+	}
+
+	#team_member .single-wrapper {
+		margin: 0px 15px;
+	}
+	#faq-area .faq-wrapper .accordion-wrapper .accordion-single .panel-heading {
+		padding: 7px 25px;
+	}
+	#faq-area .faq-wrapper .accordion-wrapper .accordion-single .panel-heading a {
+		font-size: 18px;
+		display: inherit;
+		line-height: 25px;
+	}
+	#faq-area .faq-img {
+		text-align: center;
+	}
+	#faq-area .faq-wrapper .accordion-wrapper .accordion-single .panel-heading {
+		height: auto;
+	}
+	#faq-area .faq-wrapper .accordion-wrapper .panel-title > a.collapsed::before {
+		padding-right: 1px;
+	}
+	#faq-area .faq-wrapper .accordion-wrapper .panel-title > a::before {
+		padding-top: 0px;
+		padding-right: 0;
+	}
+	#faq-area .faq-wrapper {
+		margin-top: 50px;
+	}
+	#faq-area .faq-wrapper .accordion-wrapper .accordion-single .panel-heading {
+		padding: 7px 0px;
+	}
+	#token_sale .single-wrapper {
+		margin-bottom: 30px;
+	}
+	#best_feature .feature_items .single-wrapper {
+		padding: 0 15px;
+	}
+	#best_feature .feature_items .single-wrapper:last-child {
+		padding-left: 15px;
+	}
+	#best_feature .feature_items .single-wrapper {
+		margin-bottom: 20px;
+		padding-right: 15px;
+	}
+	#token_sale .pricing_items .single-wrapper .pricing_single {
+		margin-left: 0px;
+	}
+	#token_sale .pricing_items .single-wrapper .pricing_single {
+		margin: 0 0px;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .distribution_details h3 {
+		min-height: 200px;
+		min-width: 200px;
+	}
+	#best_feature .feature_items .single-wrapper:first-child {
+		padding-right: 15px;
+	}
+	.distribution_single_item {
+		margin-bottom: 100px;
+	}
+	#token_distribution {
+		padding: 0px 0;
+	}
+	.distribution_single_item:last-child {
+		margin-bottom: 0px;
+	}
+	.distribution_single_item:last-child {
+		margin-bottom: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_1 p {
+		margin-bottom: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details span::before {
+		display: none !important;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details {
+		position: static;
+		bottom: 0 !important;
+		left: 0 !important;
+		transform: translate(0%) !important;
+		display: flex;
+		justify-content: left;
+		width: 100%;
+		padding-left: 15px;
+		padding-bottom: 15px;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content {
+		margin-top: 100px;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_2 p {
+		margin-bottom: 0;
+		margin-right: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_3 p {
+		margin-bottom: 0;
+		margin-left: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_5 p {
+		margin-top: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_6 p {
+		margin-top: 0;
+		margin-left: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_4 p {
+		margin-top: 0;
+		margin-right: 0;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details p {
+		position: relative;
+	}
+	.details_caption {
+		position: absolute;
+		right: 0;
+	}
+	#roadmap .location_04 .location_wrapper .roadmap_position {
+		height: 100%;
+		width: 100%;
+	}
+	#roadmap .location_04 .location_wrapper .location {
+		position: static;
+		width: 95%;
+		margin: 0px auto;
+		margin-bottom: 30px;
+	}
+	#whitepaper {
+		padding: 0 0 0px;
+	}
+	#whitepaper .companis_supported_logos {
+		max-height: 100% !important;
+		background: none;
+	}
+	#whitepaper .companis_supported_logos ul {
+		display: wrap;
+		flex-wrap: wrap;
+		padding: 15px 0px;
+	}
+	#whitepaper .companis_supported_logos ul li {
+		width: 40%;
+		margin-bottom: 30px;
+		justify-content: space-between;
+		margin: 0px auto;
+	}
+	#whitepaper .companis_supported_logos ul li img {
+		margin-bottom: 30px;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form {
+		width: 294px;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group button {
+		font-size: 15px;
+		width: 91px;
+		cursor: pointer;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+		padding: 0 151px 0 10px;
+	}
+	#contact {
+		padding: 50px 0;
+	}
+	#contact .address_wrapper {
+		margin-left: 0;
+	}
+	#footer p {
+		margin: 0 0% 0 0;
+	}
+	#footer {
+		padding-top: 100px;
+	}
+		.s-ecosystem {
+		margin-top: 60px;
+	}
+	.eco-img {
+		width: 100%;
+		height: auto;
+	}
+}
+/*		Wide Mobile Layout: 480px.
+------------------------------------------------- */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.shape3.header-shape > img {
+		display: none;
+	}
+}
+
+@media (max-width:1400px) {
+	.s-press {
+		padding-top: 0px;
+	}
+	.s-press .title-press {
+		text-align:left;
+		padding-left:50px;
+	}
+	.s-press .row .block-press {
+		margin-bottom:22px;
+	}
+	.s-seen .row .block-seen {
+		padding:50px;
+		padding-top:0px;
+		padding-bottom:0px;
+	}
+	#header .navbar .navbar-nav .nav-item .nav-link {
+		padding: 22px 0px;
+	}
+
+	#header .intro-text h1 {
+		line-height: 47px;
+	}
+
+	#header .intro-text .btn_video_wrapper {
+		margin-top: 40px;
+	}
+
+	#header .countdown_time {
+		margin-top: 50px;
+	}
+
+	#header .intro-text {
+		margin: 120px 0 170px;
+	}
+
+	#welcome_mybluecoin {
+		padding: 0 0 60px;
+	}
+
+	#token_distribution {
+		padding-top: 0px;
+		padding-bottom: 100px;
+	}
+
+	#token_distribution .sub-title {
+		margin: 0px auto 30px;
+	}
+
+	#roadmap .location_04 .location_wrapper .location .location_title p {
+		font-size: 14px;
+		font-weight: 500;
+		margin: 0;
+		color: rgb(126, 133, 236);
+		padding: 0px 10px;
+	}
+
+
+	#roadmap {
+		padding: 10px 0 50px;
+	}
+
+	#whitepaper .bubble1 {
+		left: 3%;
+	}
+
+	#whitepaper .bubble2 {
+		right: 11%;
+	}
+
+	#whitepaper {
+		padding: 0 0 30px;
+	}
+}
+
+@media (max-width:900px) {
+	#header, #welcome_mybluecoin, #about_mybluecoin, best_feature_06, #token_sale, #token_distribution, #roadmap, #whitepaper, #team_member, #ecosystem, #exchanges, #faq-area, #contact, #subscribe_area, footer {
+		overflow: hidden !important;
+	}
+
+	#header .intro-text {
+		text-align: center;
+		margin: 80px 0 0px;
+	}
+	#header .countdown_time {
+		margin-right: 0px;
+	}
+	.is-sticky #navbarSupportedContent {
+		opacity:0;
+	}
+	.is-sticky nav.navbar {
+		background: transparent;
+		box-shadow:none;
+	}
+	#about_mybluecoin .about-img img {
+		width: 100%;
+		max-width:610px;
+	}
+	.stanup {
+		left: 22px;
+		top: 30px;
+	}
+	#token_distribution.container {
+		min-height: 730px;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_2 p {
+		left: 60px;
+		position: relative;
+		max-width: 200px;
+	}
+	#about_mybluecoin {
+		padding: 40px 0 60px;
+	}
+	#token_sale {
+		padding: 40px 0 60px;
+	}
+	#token_sale .shape1 {
+		top: 30%;
+	}
+	#token_sale .pricing_items .single-wrapper .pricing_single {
+		background: linear-gradient(to bottom,rgba(0, 35, 210, 0.1),rgba(9, 2, 51, 0.8));
+	}
+	#token_sale .pricing_bottom .pricing_list_wrapper {
+		padding: 40px;
+		padding-bottom: 60px;
+	}
+	#token_distribution .distribution_single_item {
+		margin-bottom: 0px;
+	}
+	#whitepaper .bubble1 img {
+		display:none;
+	}
+	#whitepaper .bubble2 img {
+		display: none;
+	}
+	#ecosystem h2 {
+		margin-top:0px;
+	}
+	#ecosystem .eco-title {
+		margin-top:20px;
+	}
+	.img-responsive {
+		width:100%;
+		margin:0px auto;
+		display:block;
+	}
+	.none-tablet {
+		display:none;
+	}
+	#exchanges .exchanges-title {
+		position: relative;
+		top: 0px;
+		right: inherit;
+		color: #ffffff;
+		font-size: 42px;
+		font-style: italic;
+		margin: 0px auto;
+		display: block;
+		text-align: center;
+		margin-top: 10px;
+		padding: 5px 0px;
+		background: linear-gradient(to right,rgba(14, 4, 77, 0),rgba(12, 23, 136, 0.3),rgba(14, 4, 77, 0));
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+		width:85%;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group button {
+		right: 95px;
+	}
+	#footer {
+		margin-top:20px;
+		padding-top:0px;
+	}
+	#footer .copyright p {
+		padding:30px 0px;
+	}
+	#about_mybluecoin .shape2 {
+		bottom: -10%;
+		right: 0;
+		z-index: -1;
+	}
+	.s-press .row .block-press {
+		margin-bottom: 20px;
+	}
+	.s-press .row .block-press.item-1, .s-press .row .block-press.item-2, .s-press .row .block-press.item-3, .s-press .row .block-press.item-4, .s-press .row .block-press.item-5, .s-press .row .block-press.item-6 {
+		margin-top: 0px;
+	}
+	.s-press .title-press {
+		margin-bottom: 20px;
+		text-align: center;
+		padding-left: 0px;
+	}
+	.s-press {
+		padding-top:0px;
+		padding-bottom:80px;
+	}
+	.s-seen {
+		border-radius: 40px;
+		padding-top: 40px;
+		padding-bottom: 80px;
+	}
+	.s-seen .row .block-seen {
+		padding:10px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.s-seen .row .block-seen {
+		background: linear-gradient(to bottom,rgba(0, 38, 173, 0),rgba(0, 29, 134, 0.0),rgba(0, 85, 189, 0.0))!important;
+		border: 0px solid rgba(0, 64, 160, 0.5)!important;
+		border-left: 0px solid!important;
+		border-right: 0px solid!important;
+	}
+	.s-seen .row .block-seen.item-1, .s-seen .row .block-seen.item-2, .s-seen .row .block-seen.item-5, .s-seen .row .block-seen.item-6, .s-seen .row .block-seen.item-9, .s-seen .row .block-seen.item-10, .s-seen .row .block-seen.item-13, .s-seen .row .block-seen.item-14 {
+		background: linear-gradient(to bottom,rgba(0, 38, 173, 0),rgba(0, 29, 134, 0.1),rgba(0, 85, 189, 0.1))!important;
+		border: 1px solid rgba(0, 64, 160, 0.5)!important;
+		border-left: 0px solid!important;
+		border-right: 0px solid!important;
+	}
+	#asseenon {
+		overflow: hidden;
+	}
+}
+@media (max-width:500px) {
+	.header .navbar {
+		padding: 0px 0 0px !important;
+		z-index: 99;
+		background: #020c59 !important;
+	}
+	.is-sticky #navbarSupportedContent {
+		opacity: 1;
+	}
+	.navbar-light .navbar-toggler {
+		z-index: 999;
+	}
+	.header .navbar {
+		padding: 0px 0 0px !important;
+		z-index: 99;
+		background: #020c59 !important;
+	}
+	.language {
+		position: absolute;
+		top: 10px;
+		left: 45%;
+		transform: translateX(-50%);
+		width: 100%;
+		justify-content: flex-end;
+	}
+	.navbar-light .navbar-brand img {
+		visibility: hidden;
+		width: 200px;
+		left: -43%;
+		padding: 10px 0px;
+		position: relative;
+	}
+	#header .countdown_time .clock-countdown .single-counter {
+		padding: 8px;
+	}
+	#welcome_mybluecoin {
+		padding: 100px 0 60px;
+	}
+	.stanup {
+		left: 0px;
+		top: 0px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details_2 p {
+		left: 0px;
+		position: relative;
+		max-width: inherit;
+	}
+	#token_distribution .distribution_single .distribution_wrapper .details_content .details p {
+		margin-top:0px;
+		margin-left:0px;
+	}
+	#best_feature {
+		padding: 0px 0 25px;
+	}
+	#token_sale .pricing_bottom {
+		margin-top: -5px;
+	}
+	#token_distribution .about_mybluecoin-content h2 {
+		font-size: 20px;
+	}
+	#roadmap .location_04 .location_wrapper .location_2 {
+		width: 95%;
+		float: inherit;
+	}
+	#roadmap .location_04 .location_wrapper .location_3 {
+		width: 95%;
+		float: inherit;
+	}
+	#roadmap .location_04 .location_wrapper .location_4 {
+		width: 95%;
+		float:inherit;
+	}
+	.btn-wpp {
+		position: relative;
+		display: block;
+		text-align: center;
+	}
+	.img-wpp-left {
+		max-width: 220px;
+		width: 100%;
+		margin: 0px auto;
+		text-align: center;
+		display: block;
+		position: relative;
+		top: 0px;
+		margin-top: 30px;
+		border-radius: 10px;
+		border: 2px solid #1e248c;
+		box-shadow: 5px -5px 20px 2px rgba(0, 33, 154, 0.6);
+	}
+	.block-wpp .token_shape .header-shape {
+		width: 100%;
+		top: 50%;
+	}
+	#faq-area {
+		padding: 40px 0 40px;
+	}
+	#contact .contact_form {
+		background: transparent;
+		margin-top: 0px;
+	}
+	#contact .address_wrapper .sub-title {
+		text-align: left;
+		margin: 0px 0 30px;
+	}
+	#contact .address_wrapper .contact-info-wrapper .contact-info .single-list {
+		margin-bottom: 30px;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+		width: 100%;
+		padding:0px 10px;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form {
+		width: 100%;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+		height:55px;
+	}
+	#subscribe_area .subscribe-wrapper #subscribe .subscribe-form form .form-group button {
+		right:0px;
+		height: 55px;
+	}
+	.s-press .row .block-press img {
+		background: linear-gradient(to top,rgba(0, 56, 255, 0.15),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0));
+	}
+	.s-press .row .block-press {
+		padding:0px 10px;
+		margin-bottom:15px;
+	}
+	.s-seen {
+		border-radius:0px;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .distribution_details h3 {
+		min-height: 250px;
+		min-width: 250px;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details p {
+		margin: 0;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_1 {
+		bottom: 110%;
+		left: 35%;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_2 {
+		bottom: 85%;
+		right: -25%;
+		text-align: center;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_3 {
+		bottom: 75%;
+		left: -10%;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_4 {
+		top: 30%;
+		right: -50%;
+		text-align: left;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_5 {
+		top: 70%;
+		left: 25%;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_6 {
+		top: 85%;
+		left: 50%;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_7 {
+		top: 95%;
+		left: 0%;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details_8 {
+		top: 105%;
+		left: 50%;
+	}
+	#token_distribution_bf .distribution_single .distribution_wrapper .details_content .details .details_caption {
+		display: none;
+	}
+}
+@media (max-width:390px) {
+	.navbar-light .navbar-brand::before {
+		left: 60px;
+	}
+	#header .navbar .language .token {
+		line-height: 35px !important;
+		margin-top: 6px;
+	}
+	#about_mybluecoin .about_mybluecoin-content a {
+		margin-top:15px;
+	}
+	#roadmap .sub-title {
+		margin: 0px 0 70px 0;
+	}
+	#roadmap .location_04 .location_wrapper .location {
+		margin-bottom:10px;
+	}
+	.s-press .row .block-press {
+		padding:0px 12px;
+	}
+}
+@media (max-width:370px) {
+	#header-06 .navbar .language .token {
+		position: relative;
+		left: 10px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter {
+		padding: 5px;
+	}
+	#footer-06 .copyright p {
+		padding: 20px 0px;
+	}
+	#header-06 .intro-text {
+		margin: 60px 0 0px;
+	}
+}
+@media (max-width:330px) {
+	.navbar-light .navbar-brand::before {
+		background: url(../images/logos/logo2.svg);
+		position: absolute;
+		top: 21px;
+		left: 45px;
+		content: "";
+		height: 23px;
+		width: 105px;
+		background-size: cover;
+	}
+	#header-06 .intro-text {
+		margin: 45px 0 0px;
+	}
+	#header-06 .intro-text h1 {
+		font-size: 30px;
+		padding: 0;
+	}
+	#header-06 .intro-text p {
+		padding: 0;
+	}
+	#header-06 .intro-text .btn_video_wrapper {
+		margin-top: 30px;
+		flex-direction: column;
+		align-items: center;
+	}
+	#header-06 .intro-text .btn_video_wrapper .btn {
+		margin-bottom: 20px	;
+		margin-right: 0;
+	}
+	#header-06 .countdown_time {
+		margin: 20px auto;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter {
+		padding: 5px 2px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter h4 {
+		width: 65px;
+		height: 65px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter h4 .count-time {
+		width: 65px;
+		height: 65px;
+	}
+	#header-06 .countdown_time .clock-countdown .single-counter .normal {
+		font-size:14px;
+	}
+	.img-wrapper {
+		display: none;
+	}
+	#token_distribution_bf .sub-title {
+		margin-bottom: 0;
+	}
+}
